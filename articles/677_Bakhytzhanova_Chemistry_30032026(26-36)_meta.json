@@ -1,0 +1,206 @@
+{
+  "article_title_rus": "Влияние условий осаждения на электрохимические характеристики тонких пленок SnO2 в качестве анодов для литий-ионных аккумуляторов",
+  "article_title_kaz": "SnO2 жұқа пленкалы литий-ионды аккумуляторлардың аноды ретінде электрохимиялық сипаттамаларына шашырау шарттарының әсері",
+  "article_title_eng": "Effect of deposition conditions on the electrochemical characteristics of SnO2 thin films as anodes for lithium-ion batteries",
+  "abstract_rus": "Тонкоплёночные аноды SnO2 были изготовлены методом высокочастотного магнетронного (ВЧ) распыления металлической мишени Sn на подложки из нержавеющей стали с покрытием Ti/Pt. Осаждение проводилось при комнатной температуре (RT) и при 300 °C в атмосфере Ar/O2 с последующим отжигом на воздухе при 620 °C. Структура, морфология и электрохимические характеристики плёнок были систематически исследованы. Анализ рентгеновской дифракции (XRD) подтвердил формирование чистой фазы тетрагонального рутила SnO2 без обнаружения вторичных фаз. Методом сканирующей электронной микроскопии (SEM) выявлены значительные изменения размера зёрен и однородности поверхности в зависимости от температуры осаждения и термической обработки. Электрохимические испытания в монеточных ячейках CR2032 продемонстрировали характерный многостадийный механизм литирования SnO2, включающий реакции конверсии и сплавообразования. Несмотря на то, что отжиг способствовал повышению кристалличности и снижению поляризации, плёнки, осаждённые при комнатной температуре, показали более высокую долговременную циклическую стабильность по сравнению с образцами, полученными при повышенной температуре. Полученные результаты подчёркивают ключевую роль температуры осаждения и конфигурации подслоя в контроле структурной целостности и электрохимической стабильности тонкоплёночных анодов SnO2 для литий-ионных аккумуляторов.",
+  "abstract_kaz": "SnO2 жұқа пленкалы анодтары Ti–Pt аралық қабатымен қапталған тот баспайтын болат (SS) субстраттарына металл Sn нысанасын радиожиілікті (РЖ) магнетронды шашырату әдісі арқылы алынды. Пленкалар Ar/O2 атмосферасында бөлме температурасында (RT) және 300°C-та тұндырылып, кейіннен 620°C-та ауада күйдірілді. Пленкалардың құрылымы, морфологиясы және электрохимиялық қасиеттері жүйелі түрде зерттелді. Рентгендік дифракциялық талдау (XRD) нәтижелері бөгде фазаларсыз тетрагональды рутил құрылымды таза SnO2 фазасының түзілгенін растады. СЭМ (SEM) зерттеулері тұндыру температурасы мен термиялық өңдеуге байланысты түйіршік өлшемі мен беттік біртектіліктің айтарлықтай өзгеретінін көрсетті. CR2032 типті тиын элементтерінде жүргізілген электрохимиялық сынақтар SnO2 үшін конверсиялық және легірлеу реакцияларын қамтитын көпсатылы литийлену механизмін анықтады. Күйдіру кристалдылықты арттырып, поляризацияны төмендеткенімен, бөлме температурасында тұндырылған пленкалар жоғары температурада алынған үлгілермен салыстырғанда ұзақ мерзімді циклдік тұрақтылықтың жоғары көрсеткішін көрсетті. Алынған нәтижелер SnO2 жұқа қабатты анодтарының құрылымдық тұтастығы мен электрохимиялық тұрақтылығын басқаруда тұндыру температурасы мен аралық қабат конфигурациясының шешуші рөл атқаратынын көрсетеді.",
+  "abstract_eng": "SnO2 thin-film anodes were fabricated by RF magnetron sputtering of a metallic Sn target onto Ti–Pt coated stainless-steel substrates. The films were deposited at room temperature (RT) and 300°C in an Ar/O2 atmosphere and subsequently annealed in air at 620°C. The structural evolution, morphology, and electrochemical performance of the films were systematically investigated. X-ray diffraction (XRD) analysis confirmed the formation of phase-pure tetragonal rutile SnO2 without detectable secondary phases. SEM observations revealed significant changes in grain size and surface uniformity depending on deposition temperature and thermal treatment. Electrochemical testing in CR2032 coin cells demonstrated a typical multistep lithiation mechanism of SnO2 involving conversion and alloying reactions. Although annealing improved crystallinity and reduced polarization, the films deposited at RT exhibited superior long-term cycling stability compared to those deposited at elevated temperature. The results highlight the crucial role of deposition temperature and sublayer configuration in controlling structural integrity and electrochemical durability of SnO2 thin-film anodes for lithium-ion batteries.",
+  "keywords_rus": [
+    "литий-ионные аккумуляторы",
+    "SnO2",
+    "межслой Ti/Pt",
+    "радиочастотное магнетронное распыление",
+    "отжиг",
+    "электрохимические характеристики"
+  ],
+  "keywords_kaz": [
+    "литий-ионды аккумуляторлар",
+    "SnO2",
+    "Ti/Pt аралық қабаты",
+    "радиожиілікті магнетронды шашырау",
+    "қыздыру",
+    "электрохимиялық көрсеткіштер"
+  ],
+  "keywords_eng": [
+    "Lithium-ion batteries",
+    "SnO2",
+    "Ti/Pt interlayer",
+    "RF magnetron sputtering",
+    "annealing",
+    "electrochemical performance"
+  ],
+  "authors_ru": [
+    {
+      "first_name": "Жансая",
+      "last_name": "Бахытжанова",
+      "country": "Казахстан",
+      "orcid": "0009-0000-9628-587X",
+      "email": "zhansayab.1977@gmail.com",
+      "university": "L.N. Gumilov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Мұқағали",
+      "last_name": "Егамкулов",
+      "country": "Казахстан",
+      "orcid": "0000-0002-1133-3201",
+      "email": "mukagali.yegamkulov@nu.edu.kz",
+      "university": "Institute of New Materials and Energy Technologies PI, Nazarbayev University, Institute of Batteries LLC, Astana"
+    },
+    {
+      "first_name": "Аяжан",
+      "last_name": "Бекмаханова",
+      "country": "Казахстан",
+      "orcid": "0009-0007-5430-9627",
+      "email": "bekmahanovaaazan877@gmail.com",
+      "university": "L.N. Gumilov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Гаухар",
+      "last_name": "Тажкенова",
+      "country": "Казахстан",
+      "orcid": "0000-0003-0491-593X",
+      "email": "gaukhar-1970@mail.ru",
+      "university": "L.N. Gumilyov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Арайлым",
+      "last_name": "Нурпеисова",
+      "country": "Казахстан",
+      "orcid": "0000-0002-9657-2964",
+      "email": "arailym.nurpeissova@nu.edu.kz",
+      "university": "Institute of Batteries LLC, Astana"
+    },
+    {
+      "first_name": "Жұмабай",
+      "last_name": "Бакенов",
+      "country": "Казахстан",
+      "orcid": "0000-0003-2781-4955",
+      "email": "zbakenov@nu.edu.kz",
+      "university": "Institute of New Materials and Energy Technologies PI, Nazarbayev University, Institute of Batteries LLC, Astana"
+    },
+    {
+      "first_name": "Алия",
+      "last_name": "Муканова",
+      "country": "Казахстан",
+      "orcid": "0000-0002-1171-176X",
+      "email": "aliya.mukanova@nu.edu.kz",
+      "university": "Institute of New Materials and Energy Technologies PI, Nazarbayev University, Institute of Batteries LLC, Astana"
+    }
+  ],
+  "authors_kk": [
+    {
+      "first_name": "Жансая",
+      "last_name": "Бахытжанова",
+      "country": "Қазақстан",
+      "orcid": "0009-0000-9628-587X",
+      "email": "zhansayab.1977@gmail.com",
+      "university": "L.N. Gumilov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Мұқағали",
+      "last_name": "Егамкулов",
+      "country": "Қазақстан",
+      "orcid": "0000-0002-1133-3201",
+      "email": "mukagali.yegamkulov@nu.edu.kz",
+      "university": "Institute of New Materials and Energy Technologies PI, Nazarbayev University, Institute of Batteries LLC, Astana"
+    },
+    {
+      "first_name": "Аяжан",
+      "last_name": "Бекмаханова",
+      "country": "Қазақстан",
+      "orcid": "0009-0007-5430-9627",
+      "email": "bekmahanovaaazan877@gmail.com",
+      "university": "L.N. Gumilov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Гаухар",
+      "last_name": "Тажкенова",
+      "country": "Қазақстан",
+      "orcid": "0000-0003-0491-593X",
+      "email": "gaukhar-1970@mail.ru",
+      "university": "L.N. Gumilyov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Арайлым",
+      "last_name": "Нурпеисова",
+      "country": "Қазақстан",
+      "orcid": "0000-0002-9657-2964",
+      "email": "arailym.nurpeissova@nu.edu.kz",
+      "university": "Institute of Batteries LLC, Astana"
+    },
+    {
+      "first_name": "Жұмабай",
+      "last_name": "Бакенов",
+      "country": "Қазақстан",
+      "orcid": "0000-0003-2781-4955",
+      "email": "zbakenov@nu.edu.kz",
+      "university": "Institute of New Materials and Energy Technologies PI, Nazarbayev University, Institute of Batteries LLC, Astana"
+    },
+    {
+      "first_name": "Алия",
+      "last_name": "Муканова",
+      "country": "Қазақстан",
+      "orcid": "0000-0002-1171-176X",
+      "email": "aliya.mukanova@nu.edu.kz",
+      "university": "Institute of New Materials and Energy Technologies PI, Nazarbayev University, Institute of Batteries LLC, Astana"
+    }
+  ],
+  "authors_en": [
+    {
+      "first_name": "Zhansaya",
+      "last_name": "Bakhytzhanova",
+      "country": "Kazakhstan",
+      "orcid": "0009-0000-9628-587X",
+      "email": "zhansayab.1977@gmail.com",
+      "university": "L.N. Gumilov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Mukagali",
+      "last_name": "Yegamkulov",
+      "country": "Kazakhstan",
+      "orcid": "0000-0002-1133-3201",
+      "email": "mukagali.yegamkulov@nu.edu.kz",
+      "university": "Institute of New Materials and Energy Technologies PI, Nazarbayev University, Institute of Batteries LLC, Astana"
+    },
+    {
+      "first_name": "Ayazhan",
+      "last_name": "Bekmakhanova",
+      "country": "Kazakhstan",
+      "orcid": "0009-0007-5430-9627",
+      "email": "bekmahanovaaazan877@gmail.com",
+      "university": "L.N. Gumilov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Gaukhar",
+      "last_name": "Tazhkenova",
+      "country": "Kazakhstan",
+      "orcid": "0000-0003-0491-593X",
+      "email": "gaukhar-1970@mail.ru",
+      "university": "L.N. Gumilyov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Arailym",
+      "last_name": "Nurpeissova",
+      "country": "Kazakhstan",
+      "orcid": "0000-0002-9657-2964",
+      "email": "arailym.nurpeissova@nu.edu.kz",
+      "university": "Institute of Batteries LLC, Astana"
+    },
+    {
+      "first_name": "Zhumabay",
+      "last_name": "Bakenov",
+      "country": "Kazakhstan",
+      "orcid": "0000-0003-2781-4955",
+      "email": "zbakenov@nu.edu.kz",
+      "university": "Institute of New Materials and Energy Technologies PI, Nazarbayev University, Institute of Batteries LLC, Astana"
+    },
+    {
+      "first_name": "Aliya",
+      "last_name": "Mukanova",
+      "country": "Kazakhstan",
+      "orcid": "0000-0002-1171-176X",
+      "email": "aliya.mukanova@nu.edu.kz",
+      "university": "Institute of New Materials and Energy Technologies PI, Nazarbayev University, Institute of Batteries LLC, Astana"
+    }
+  ]
+}

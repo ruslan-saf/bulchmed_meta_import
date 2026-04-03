@@ -1,0 +1,50 @@
+{
+  "article_title_rus": "Многофункциональный полиэтиленимин: физико-химические свойства и современные области применения",
+  "article_title_kaz": "Көпфункционалды полиэтиленамин: физика-химиялық қасиеттері және қазіргі қолдану салалары",
+  "article_title_eng": "Multifunctional polyethyleneimine: physicochemical properties and modern applications",
+  "abstract_rus": "Полиэтиленимин (ПЭИ) представляет собой синтетический полимер...",
+  "abstract_kaz": "Полиэтиленимин (ПЭИ) – амин топтарының жоғары тығыздығына ие...",
+  "abstract_eng": "Polyethylenimine (PEI) is a synthetic polymer characterized by a high density...",
+  "keywords_rus": [
+    "разветвлённый полиэтиленимин (р-ПЭИ)",
+    "линейный полиэтиленимин (л-ПЭИ)"
+  ],
+  "keywords_kaz": [
+    "тармақталған полиэтиленимин (b-PEI)",
+    "сызықтық полиэтиленимин (l-PEI)"
+  ],
+  "keywords_eng": [
+    "branched polyethylenimine (b-PEI)",
+    "linear polyethylenimine (l-PEI)"
+  ],
+  "authors_ru": [
+    {
+      "first_name": "Томирис",
+      "last_name": "Нурлыбаева",
+      "country": "Казахстан",
+      "orcid": "0009-0009-8190-3888",
+      "email": "diable.samaaa@gmail.com",
+      "university": "Актюбинский региональный университет им. К. Жубанова, Актобе, Казахстан"
+    }
+  ],
+  "authors_kk": [
+    {
+      "first_name": "Томирис",
+      "last_name": "Нурлыбаева",
+      "country": "Қазақстан",
+      "orcid": "0009-0009-8190-3888",
+      "email": "diable.samaaa@gmail.com",
+      "university": "Қ. Жұбанов атындағы Ақтөбе өңірлік университеті, Ақтөбе, Қазақстан"
+    }
+  ],
+  "authors_en": [
+    {
+      "first_name": "Tomiris",
+      "last_name": "Nurlibayeva",
+      "country": "Kazakhstan",
+      "orcid": "0009-0009-8190-3888",
+      "email": "diable.samaaa@gmail.com",
+      "university": "K. Zhubanov Aktobe Regional University, Aktobe, Kazakhstan"
+    }
+  ]
+}

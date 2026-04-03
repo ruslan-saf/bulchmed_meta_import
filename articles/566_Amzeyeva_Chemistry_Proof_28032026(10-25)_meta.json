@@ -1,0 +1,289 @@
+{
+  "article_title_rus": "Сравнительный фитохимический пpофиль подземных частей Cichorium intybus L.",
+  "article_title_kaz": "Cichorium intybus L. жер асты бөлігінің салыстырмалы фитохимиялық бейіні",
+  "article_title_eng": "Comparative phytochemical profiling of the underground parts of Cichorium intybus L.",
+  "abstract_rus": "Корни лекарственных растений богаты важными фитохимическими соединениями и служат значимым источником биологически активных веществ для фармацевтической и пищевой промышленности. Cichorium intybus L. (цикорий) – многолетнее растение семейства Asteraceae, хорошо известно своими питательными и лекарственными свойствами. В данном исследовании проведено сравнительное изучение фитохимического состава подземных частей (корней) C. intybus L., выращенного в Казахстане и импортированного из Китая. Количественный анализ показал, что корни казахстанского происхождения содержали 4,5±0,1% влаги, 2,69±0,11% золы и 82,25±3,5% экстрактивных веществ (90% этанол), тогда как импортные образцы содержали, соответственно 7,0±0,3%, 7,52±0,3% и 85,78±3,3%. Корни, выращенные в Казахстане, также имели более высокое содержание полисахаридов (0,838±0,04%), танинов (2,18±0,1%), кумаринов (2,407±0,13%) и сапонинов (1,326±0,07%) по сравнению с импортными образцами (0,444±0,025%, 1,75±0,08%, 0,095±0,01% и 0,573±0,06%, соответственно). Химический анализ методом ГХ-МС дополнительно выявил присутствие основных фитостеролов, включая стигмастерол и кампестерол. Сравнительные результаты указывают на вариации в составе, обусловленные географическими и агротехническими факторами, что подчеркивает потенциал корней C. intybus L. как ценного источника фитохимических соединений для нутрицевтического и фармацевтического применения.",
+  "abstract_kaz": "Дәрілік өсімдіктердің тамырлары фитохимиялық қосылыстарға бай болып, фармацевтикалық және тамақ өнеркәсібі үшін биологиялық белсенді заттардың маңызды көзі болып табылады. Cichorium intybus L. (цикорий), Asteraceae тұқымдасына жататын көпжылдық өсімдік, өзінің тағамдық және дәрілік қасиеттерімен жақсы танымал. Бұл зерттеуде Қазақстанда өсірілген және Қытайдан импортталған C.intybus L. тамырларының фитохимиялық құрамын салыстырмалы түрде зерттеу жүргізілді. Сандық талдау көрсеткендей, өсірілген тамырларда 4.5±0.1% ылғал, 2.69±0.11% күл және 82.25±3.5% экстрактивтік заттар (90% этанол) анықталды, ал импортталған үлгілерде тиісінше 7.0±0.3%, 7.52±0.3% және 85.78±3.3% болды. Өсірілген тамырларда полисахаридтер (0.838±0.04%), таниндер (2.18±0.1%), кумариндер (2.407±0.13%) және сапониндер (1.326±0.07%) деңгейі импортталған үлгілерге қарағанда жоғары болды (0.444±0.025%, 1.75±0.08%, 0.095±0.01% және 0.573±0.06%, сәйкесінше). ГХ-МС химиялық талдау негізгі фитостеролдардың, соның ішінде стигмастерол мен кампестеролдың бар екенін көрсетті. Салыстырмалы нәтижелер құрамдағы айырмашылықтардың географиялық және егу жағдайларына байланысты екенін көрсетіп, C.intybus L. тамырларының нутрицевтикалық және фармацевтикалық қолдану үшін құнды фитохимиялық қосылыстар көзі болып табылатын әлеуетін айқындайды.",
+  "abstract_eng": "The roots of medicinal plants are rich in vital phytochemicals, serving as an important source of bioactive compounds for pharmaceutical and food industries. Cichorium intybus L. (chicory), a perennial plant of the Asteraceae family, is well known for its nutritional and medicinal properties. This study conducted a comparative investigation on the phytochemical composition of the underground parts (roots) of C.intybus L. cultivated in Kazakhstan and imported from China. Quantitative analysis showed that the cultivated roots contained 4.5±0.1% moisture, 2.69±0.11% ash, and 82.25±3.5% extractive substances (90% ethanol), while the imported samples contained 7.0±0.3%, 7.52±0.3%, and 85.78±3.3%, respectively. The cultivated roots also exhibited higher levels of polysaccharides (0.838±0.04%), tannins (2.18±0.1%), coumarins (2.407±0.13%), and saponins (1.326±0.07%) compared to the imported samples (0.444±0.025%, 1.75±0.08%, 0.095±0.01%, and 0.573±0.06%, respectively). GC-MS chemical profiling analysis further revealed the presence of major phytosterols, including stigmasterol and campesterol. The comparative findings indicate compositional variations influenced by geographical and cultivation factors, underscoring the potential of C.intybus L. roots as valuable sources of phytochemicals for nutraceutical and pharmaceutical applications.",
+  "keywords_rus": [
+    "Cichorium intybus L.",
+    "фитохимия",
+    "макроэлементы",
+    "микроэлементы",
+    "биологическая активность",
+    "ГХ-МС"
+  ],
+  "keywords_kaz": [
+    "Cichorium intybus L.",
+    "фитохимия",
+    "макроэлементтер",
+    "микроэлементтер",
+    "биологиялық белсенділік",
+    "ГХ-МС"
+  ],
+  "keywords_eng": [
+    "Cichorium intybus L.",
+    "phytochemistry",
+    "macroelements",
+    "microelements",
+    "GC-MS"
+  ],
+  "authors_ru": [
+    {
+      "first_name": "Улпан",
+      "last_name": "Амзеева",
+      "country": "Казахстан",
+      "orcid": "0009-0001-7193-4404",
+      "email": "ulpan-92.kz@mail.ru",
+      "university": "НИИ натуральных продуктов и технологий, Алматы, Казахстан; Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
+    },
+    {
+      "first_name": "Айя",
+      "last_name": "Толепберген",
+      "country": "Казахстан",
+      "orcid": "0009-0001-6052-299X",
+      "email": "nis.sovetbek@gmail.com",
+      "university": "НИИ натуральных продуктов и технологий, Алматы, Казахстан; Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
+    },
+    {
+      "first_name": "Сункар",
+      "last_name": "Хуанбике",
+      "country": "Казахстан",
+      "orcid": "0009-0007-5388-8946",
+      "email": "1549372750@qq.com",
+      "university": "Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
+    },
+    {
+      "first_name": "Тирувентан",
+      "last_name": "Карунакаран",
+      "country": "Малайзия",
+      "orcid": "0000-0003-4470-2656",
+      "email": "thiruventhan@usm.my",
+      "university": "Центр исследований лекарственных препаратов, Университет наук Малайзии, Пенанг, Малайзия"
+    },
+    {
+      "first_name": "Айжамал",
+      "last_name": "Байсеитова",
+      "country": "Казахстан",
+      "orcid": "0000-0002-1549-8978",
+      "email": "aizhabaiseitova@gmail.com",
+      "university": "НИИ натуральных продуктов и технологий, Алматы, Казахстан; Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
+    },
+    {
+      "first_name": "Жанар",
+      "last_name": "Женис",
+      "country": "Казахстан",
+      "orcid": "0000-0002-7148-7253",
+      "email": "janarjenis@kaznu.kz",
+      "university": "Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
+    }
+  ],
+  "authors_kk": [
+    {
+      "first_name": "Ұлпан",
+      "last_name": "Әмзеева",
+      "country": "Қазақстан",
+      "orcid": "0009-0001-7193-4404",
+      "email": "ulpan-92.kz@mail.ru",
+      "university": "Табиғи өнімдер және технологиялар ғылыми-зерттеу институты, Алматы, Қазақстан; Әл-Фараби атындағы ҚазҰУ дәрілік өсімдіктер ғылыми-зерттеу орталығы, Алматы, Қазақстан"
+    },
+    {
+      "first_name": "Айя",
+      "last_name": "Төлепберген",
+      "country": "Қазақстан",
+      "orcid": "0009-0001-7193-4404",
+      "email": "ulpan-92.kz@mail.ru",
+      "university": "НИИ натуральных продуктов и технологий, Алматы, Казахстан; Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
+    },
+    {
+      "first_name": "Айя",
+      "last_name": "Толепберген",
+      "country": "Казахстан",
+      "orcid": "0009-0001-6052-299X",
+      "email": "nis.sovetbek@gmail.com",
+      "university": "НИИ натуральных продуктов и технологий, Алматы, Казахстан; Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
+    },
+    {
+      "first_name": "Сункар",
+      "last_name": "Хуанбике",
+      "country": "Казахстан",
+      "orcid": "0009-0007-5388-8946",
+      "email": "1549372750@qq.com",
+      "university": "Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
+    },
+    {
+      "first_name": "Тирувентан",
+      "last_name": "Карунакаран",
+      "country": "Малайзия",
+      "orcid": "0000-0003-4470-2656",
+      "email": "thiruventhan@usm.my",
+      "university": "Центр исследований лекарственных препаратов, Университет наук Малайзии, Пенанг, Малайзия"
+    },
+    {
+      "first_name": "Айжамал",
+      "last_name": "Байсеитова",
+      "country": "Казахстан",
+      "orcid": "0000-0002-1549-8978",
+      "email": "aizhabaiseitova@gmail.com",
+      "university": "НИИ натуральных продуктов и технологий, Алматы, Казахстан; Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
+    },
+    {
+      "first_name": "Жанар",
+      "last_name": "Женис",
+      "country": "Казахстан",
+      "orcid": "0000-0002-7148-7253",
+      "email": "janarjenis@kaznu.kz",
+      "university": "Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
+    }
+  ],
+  "authors_kk": [
+    {
+      "first_name": "Ұлпан",
+      "last_name": "Әмзеева",
+      "country": "Қазақстан",
+      "orcid": "0009-0001-7193-4404",
+      "email": "1549372750@qq.com",
+      "university": "Әл-Фараби атындағы ҚазҰУ дәрілік өсімдіктер ғылыми-зерттеу орталығы, Алматы, Қазақстан"
+    },
+    {
+      "first_name": "Тирувентан",
+      "last_name": "Карунакаран",
+      "country": "Малайзия",
+      "orcid": "",
+      "email": "thiruventhan@usm.my",
+      "university": "Дәрілік заттарды зерттеу орталығы, Малайзия ғылым университеті, Пулау Пинанг, Малайзия"
+    },
+    {
+      "first_name": "Айжамал",
+      "last_name": "Байсеитова",
+      "country": "Қазақстан",
+      "orcid": "0009-0001-6052-299X",
+      "email": "nis.sovetbek@gmail.com",
+      "university": "Табиғи өнімдер және технологиялар ғылыми-зерттеу институты, Алматы, Қазақстан; Әл-Фараби атындағы ҚазҰУ дәрілік өсімдіктер ғылыми-зерттеу орталығы, Алматы, Қазақстан"
+    },
+    {
+      "first_name": "Сұңқар",
+      "last_name": "Хуанбике",
+      "country": "Қазақстан",
+      "orcid": "0009-0007-5388-8946",
+      "email": "1549372750@qq.com",
+      "university": "Әл-Фараби атындағы ҚазҰУ дәрілік өсімдіктер ғылыми-зерттеу орталығы, Алматы, Қазақстан"
+    },
+    {
+      "first_name": "Тирувентан",
+      "last_name": "Карунакаран",
+      "country": "Малайзия",
+      "orcid": "0000-0003-4470-2656",
+      "email": "thiruventhan@usm.my",
+      "university": "Дәрілік заттарды зерттеу орталығы, Малайзия ғылым университеті, Пулау Пинанг, Малайзия"
+    },
+    {
+      "first_name": "Айжамал",
+      "last_name": "Байсеитова",
+      "country": "Қазақстан",
+      "orcid": "0000-0002-1549-8978",
+      "email": "aizhabaiseitova@gmail.com",
+      "university": "Табиғи өнімдер және технологиялар ғылыми-зерттеу институты, Алматы, Қазақстан; Әл-Фараби атындағы ҚазҰУ дәрілік өсімдіктер ғылыми-зерттеу орталығы, Алматы, Қазақстан"
+    },
+    {
+      "first_name": "Жанар",
+      "last_name": "Жеңіс",
+      "country": "Қазақстан",
+      "orcid": "0000-0002-7148-7253",
+      "email": "janarjenis@kaznu.kz",
+      "university": "Әл-Фараби атындағы ҚазҰУ дәрілік өсімдіктер ғылыми-зерттеу орталығы, Алматы, Қазақстан"
+    }
+  ],
+  "authors_en": [
+    {
+      "first_name": "Ulpan",
+      "last_name": "Amzeyeva",
+      "country": "Kazakhstan",
+      "orcid": "0009-0001-7193-4404",
+      "email": "janarjenis@kaznu.kz",
+      "university": "Әл-Фараби атындағы ҚазҰУ дәрілік өсімдіктер ғылыми-зерттеу орталығы, Алматы, Қазақстан"
+    }
+  ],
+  "authors_en": [
+    {
+      "first_name": "Ulpan",
+      "last_name": "Amzeyeva",
+      "country": "Kazakhstan",
+      "orcid": "0009-0001-6052-299X",
+      "email": "nis.sovetbek@gmail.com",
+      "university": "Research Institute for Natural Products & Technology, Almaty, Kazakhstan; The Research Center for Medicinal Plants, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+    },
+    {
+      "first_name": "Suhaer",
+      "last_name": "Huanbieke",
+      "country": "China",
+      "orcid": "0009-0007-5388-8946",
+      "email": "1549372750@qq.com",
+      "university": "The Research Center for Medicinal Plants, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+    },
+    {
+      "first_name": "Thiruventhan",
+      "last_name": "Karunakaran",
+      "country": "Malaysia",
+      "orcid": "0000-0003-4470-2656",
+      "email": "thiruventhan@usm.my",
+      "university": "Centre for Drug Research, Universiti Sains Malaysia, Pulau Pinang, Malaysia"
+    },
+    {
+      "first_name": "Aizhamal",
+      "last_name": "Baiseitova",
+      "country": "Kazakhstan",
+      "orcid": "0000-0002-1549-8978",
+      "email": "aizhabaiseitova@gmail.com",
+      "university": "Research Institute for Natural Products & Technology, Almaty, Kazakhstan; The Research Center for Medicinal Plants, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+    },
+    {
+      "first_name": "Janar",
+      "last_name": "Jenis",
+      "country": "Kazakhstan",
+      "orcid": "0000-0002-7148-7253",
+      "email": "thiruventhan@usm.my",
+      "university": "Centre for Drug Research, Universiti Sains Malaysia, Pulau Pinang, Malaysia"
+    },
+    {
+      "first_name": "Aizhamal",
+      "last_name": "Baiseitova",
+      "country": "Kazakhstan",
+      "orcid": "0009-0001-6052-299X",
+      "email": "nis.sovetbek@gmail.com",
+      "university": "Research Institute for Natural Products & Technology, Almaty, Kazakhstan; The Research Center for Medicinal Plants, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+    },
+    {
+      "first_name": "Suhaer",
+      "last_name": "Huanbieke",
+      "country": "China",
+      "orcid": "0009-0007-5388-8946",
+      "email": "1549372750@qq.com",
+      "university": "The Research Center for Medicinal Plants, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+    },
+    {
+      "first_name": "Thiruventhan",
+      "last_name": "Karunakaran",
+      "country": "Malaysia",
+      "orcid": "0000-0003-4470-2656",
+      "email": "thiruventhan@usm.my",
+      "university": "Centre for Drug Research, Universiti Sains Malaysia, Pulau Pinang, Malaysia"
+    },
+    {
+      "first_name": "Aizhamal",
+      "last_name": "Baiseitova",
+      "country": "Kazakhstan",
+      "orcid": "0000-0002-1549-8978",
+      "email": "aizhabaiseitova@gmail.com",
+      "university": "Research Institute for Natural Products & Technology, Almaty, Kazakhstan; The Research Center for Medicinal Plants, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+    },
+    {
+      "first_name": "Janar",
+      "last_name": "Jenis",
+      "country": "Kazakhstan",
+      "orcid": "0000-0002-7148-7253",
+      "email": "janarjenis@kaznu.kz",
+      "university": "The Research Center for Medicinal Plants, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+    }
+  ]
+}

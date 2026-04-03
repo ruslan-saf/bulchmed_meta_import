@@ -1,0 +1,137 @@
+{
+  "article_title_rus": "Сравнение и синтез алгоритмов анализа изображений: обработка NDVI и RGB для мониторинга окружающей среды на основе беспилотных летательных аппаратов",
+  "article_title_kaz": "Кескін талдау алгоритмдерін салыстыру және синтездеу: қоршаған ортаны пилотсыз ұшу аппараттары арқылы бақылау үшін NDVI және RGB өңдеу",
+  "article_title_eng": "Comparison and synthesis of image analysis algorithms: processing NDVI and RGB for UAV-based environmental monitoring",
+  "abstract_rus": "Оценка состояния растительного покрова является ключевой задачей точного земледелия, экологии и управления экологическими рисками. Нормализованный разностный вегетационный индекс (NDVI), вычисляемый по отражательной способности в красном и ближнем инфракрасном (NIR) диапазонах, остается базовым физически интерпретируемым показателем для диагностики жизнеспособности растений и выявления стрессовых состояний. Однако применение NDVI в бюджетных сценариях ограничено необходимостью использования мультиспектральных датчиков с NIR-каналом. В работе выполнено сравнение трех подходов: (i) классического NDVI, (ii) преобразования на основе только RGB-каналов и (iii) синтезированного гибридного метода, переносящего принцип нормализации NDVI в модель с доминированием зеленого канала для стандартных RGB-камер. Показаны математические выводы, радиометрическая интерпретация, требования к калибровке и анализ распространения ошибок. Предложен практический UAV-ориентированный рабочий процесс, включающий геометрическую коррекцию, радиометрическую нормализацию, фильтрацию шума и компенсацию освещенности. В качестве примера прикладного использования рассмотрены сценарии оперативной оценки состояния растительности (в т.ч. после чрезвычайных событий), однако не являются основным фокусом исследования. Результаты показывают, что классический NDVI предпочтителен для количественной биофизической интерпретации, тогда как RGB-методы обеспечивают приемлемую качественную сегментацию при ограниченных ресурсах. Синтезированный алгоритм улучшает выделение растительности по сравнению с базовыми RGB-преобразованиями и может применяться при отсутствии NIR-датчиков.",
+  "abstract_kaz": "Өсімдіктерді картаға түсіру және денсаулығын бағалау нақты егіншілік, орман шаруашылығы және экологиялық қауіпті басқару үшін негізгі міндеттер болып табылады. Нормалданған айырмашылықты өсімдік жамылғысының индексі (NDVI) өсімдік денсаулығын бағалауға және стрессті анықтауға мүмкіндік беретін негізгі индекс ретінде қызмет етіп, қызыл және жақын инфрақызыл (NIR) шағылысу деректерін пайдаланады. Бұл жүйелерді енгізу оларды бюджетке қолайлы операцияларға орналастыруға тырысқанда қиындықтарға тап болады, себебі оларға NIR арналарын қамтитын көпспектрлі сенсорлар қажет. Зерттеу үш алгоритмдік тәсілді толық талдау арқылы бағалайды, оған (i) NDVI әдісі және (ii) тек RGB арнасын түрлендіру әдісі және (iii) стандартты RGB камералары үшін жасыл басымдыққа NDVI қалыпқа келтіруді қолданатын синтезделген гибридті алгоритм кіреді. Зерттеуде математикалық туындылар, радиометриялық түсіндіру әдістері және барлық зерттелген тәсілдер үшін калибрлеу қажеттіліктері мен қателіктердің таралу есептеулері кіреді. Зерттеу геометриялық түзету және радиометриялық қалыпқа келтіру, шуды сүзу, жарықтандыруды өтеу арқылы UAV кескін деректерін алдын ала өңдеуді жүзеге асыратын жүйені әзірлейді. Жүйе UAV енгізу сценарийлері мен ұшуды жоспарлау шектеулері және геокеңістіктік кейінгі өңдеу жұмыс процестері туралы талқылаулар арқылы пайдалырақ болады. Мәтінде орман өртіне қатысты пайдалану жағдайлары өсімдіктердің стресс карталары оқиғадан кейінгі таңдауға көмектесетін жылдам бағалау жағдайларының мысалдары ретінде келтірілген, бірақ бұл мысалдар негізгі назарды білдірмейді. Зерттеу нәтижелері классикалық әдістерге негізделген NDVI сандық биофизикалық талдау үшін жақсы нәтижелер беретінін, бірақ RGB негізіндегі әдістер шектеулі аппараттық ресурстарды пайдаланған кезде сапалық сегменттеу үшін жақсы жұмыс істейтінін көрсетеді. Әзірленген алгоритм RGB трансформация әдістеріне қарағанда өсімдіктерді анықтауда жоғары нәтижелер береді және NIR жабдықталған жүйелері жоқ ұйымдар үшін пайдалы шешім ретінде қызмет етеді. Құжатта пайдаланушыларға дәлдік деңгейлері мен бюджет шектеулері, сондай-ақ орналастыру және жүйенің жұмыс істеу қиындықтарына қатысты нақты талаптарына негізделген әдістерді таңдауға көмектесетін ұсыныстар берілген.",
+  "abstract_eng": "Vegetation mapping and health assessment are fundamental tasks for precision agriculture, forestry, and environmental hazard management. The Normalized Difference Vegetation Index (NDVI), derived from red and near-infrared (NIR) reflectances, remains the standard physics-based indicator for assessing plant vitality and diagnosing stress conditions. However, employing such systems faces challenges when attempting to deploy them for budget-friendly operations because they require multispectral sensors containing NIR bands. The study evaluates three algorithmic approaches through an exhaustive analysis, which includes (i) the NDVI method and (ii) RGB-only channel transformation approach and (iii) synthesized hybrid algorithm applying NDVI normalization to green-dominance for standard RGB cameras. The research includes mathematical derivations, radiometric interpretation methods, and calibration needs and error propagation calculations for all examined approaches. The research develops a system that implements preprocessing of UAV image data by performing geometric correction and radiometric normalization, noise filtering, illumination compensation. The system becomes more useful through the discussions about UAV deployment scenarios and flight planning restrictions, and geospatial post-processing workflows. The text presents use cases regarding a forest fire as instances of quick assessment situations where vegetation stress maps help in post-event selection, rather than representing the core focus. The research data show that classical NDVI rooted in physics yields better outcomes for quantitative biophysical analysis while RGB-based methods perform well for qualitative segmentation when using restricted hardware resources. The developed algorithm gives superior results in detecting vegetation than RGB transformation methods and serves as a useful solution for organizations lacking NIR-equipped systems. The paper provides recommendations explaining to users how to select methods based on their specific requirements concerning accuracy levels and budget restrictions as well as deployment and system operation challenges.",
+  "keywords_rus": [
+    "NDVI",
+    "БПЛА",
+    "обработка RGB-изображений",
+    "мониторинг растительности",
+    "мультиспектральная съёмка",
+    "радиометрическая калибровка",
+    "экологический мониторинг"
+  ],
+  "keywords_kaz": [
+    "NDVI",
+    "ҰҰА",
+    "RGB кескінін өңдеу",
+    "өсімдіктерді бақылау",
+    "көп спектрлі бейнелеу",
+    "радиометриялық калибрлеу",
+    "қоршаған ортаны бақылау"
+  ],
+  "keywords_eng": [
+    "NDVI",
+    "UAV",
+    "RGB imagery processing",
+    "vegetation monitoring",
+    "multispectral imaging",
+    "radiometric calibration",
+    "environmental monitoring"
+  ],
+  "authors_ru": [
+    {
+      "first_name": "Рустам",
+      "last_name": "Асқарұлы",
+      "country": "Казахстан",
+      "orcid": "0000-0002-9202-6528",
+      "email": "rustam.askaruly@nu.edu.kz",
+      "university": "Nazarbayev University, Astana"
+    },
+    {
+      "first_name": "Айдана",
+      "last_name": "Абилова",
+      "country": "Казахстан",
+      "orcid": "0009-0003-5512-852X",
+      "email": "aiddannabbi@gmail.com",
+      "university": "L.N. Gumilyov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Арман",
+      "last_name": "Сыздыков",
+      "country": "Казахстан",
+      "orcid": "0009-0003-4111-5277",
+      "email": "780217303194@enu.kz",
+      "university": "L.N. Gumilyov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Хуралай",
+      "last_name": "Молдамурат",
+      "country": "Казахстан",
+      "orcid": "0000-0002-3691-6948",
+      "email": "moldamurat@yandex.kz",
+      "university": "L.N. Gumilyov Eurasian National University, Astana"
+    }
+  ],
+  "authors_kk": [
+    {
+      "first_name": "Рустам",
+      "last_name": "Асқарұлы",
+      "country": "Қазақстан",
+      "orcid": "0000-0002-9202-6528",
+      "email": "rustam.askaruly@nu.edu.kz",
+      "university": "Nazarbayev University, Astana"
+    },
+    {
+      "first_name": "Айдана",
+      "last_name": "Абилова",
+      "country": "Қазақстан",
+      "orcid": "0009-0003-5512-852X",
+      "email": "aiddannabbi@gmail.com",
+      "university": "L.N. Gumilyov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Арман",
+      "last_name": "Сыздыков",
+      "country": "Қазақстан",
+      "orcid": "0009-0003-4111-5277",
+      "email": "780217303194@enu.kz",
+      "university": "L.N. Gumilyov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Хуралай",
+      "last_name": "Молдамурат",
+      "country": "Қазақстан",
+      "orcid": "0000-0002-3691-6948",
+      "email": "moldamurat@yandex.kz",
+      "university": "L.N. Gumilyov Eurasian National University, Astana"
+    }
+  ],
+  "authors_en": [
+    {
+      "first_name": "Rustam",
+      "last_name": "Askaruly",
+      "country": "Kazakhstan",
+      "orcid": "0000-0002-9202-6528",
+      "email": "rustam.askaruly@nu.edu.kz",
+      "university": "Nazarbayev University, Astana"
+    },
+    {
+      "first_name": "Aidana",
+      "last_name": "Abilova",
+      "country": "Kazakhstan",
+      "orcid": "0009-0003-5512-852X",
+      "email": "aiddannabbi@gmail.com",
+      "university": "L.N. Gumilyov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Arman",
+      "last_name": "Syzdykov",
+      "country": "Kazakhstan",
+      "orcid": "0009-0003-4111-5277",
+      "email": "780217303194@enu.kz",
+      "university": "L.N. Gumilyov Eurasian National University, Astana"
+    },
+    {
+      "first_name": "Khuralay",
+      "last_name": "Moldamurat",
+      "country": "Kazakhstan",
+      "orcid": "0000-0002-3691-6948",
+      "email": "moldamurat@yandex.kz",
+      "university": "L.N. Gumilyov Eurasian National University, Astana"
+    }
+  ]
+}

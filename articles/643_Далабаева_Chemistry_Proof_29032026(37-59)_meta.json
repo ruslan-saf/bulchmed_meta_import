@@ -1,0 +1,179 @@
+{
+  "article_title_rus": "Синтез металлоорганического каркаса (ZIF-8) и применение для очистки сточных вод: обзор",
+  "article_title_kaz": "Металл органикалық қаңқаны (ZIF-8) синтездеу және оның ағынды суды тазартуға қолданылуы: шолу",
+  "article_title_eng": "Synthesis of metal-organic framework (ZIF-8) and application in wastewater treatment: review",
+  "abstract_rus": "В связи с интенсивным ростом промышленности и сельского хозяйства из года в год усиливается загрязнение окружающей среды ионами тяжелых металлов. Тяжелые металлы чрезвычайно опасны для человека и оказывают пагубное воздействие на окружающую среду и экосистемы. Удаление ионов тяжелых металлов из сточных вод является неотложной задачей, требующей значительного внимания как с экологической, так и с коммерческой точки зрения. Для решения таких проблем, как повышение экономической эффективности, масштабируемость, удаление нескольких металлов, возможность повторного использования и т. д., разрабатываются передовые материалы, которые призваны заменить традиционные методы очистки воды или внедрить современные технологии. Для решения этих проблем особое значение имеют металлоорганические каркасы (MOF), являющиеся новым типом трехмерных органическо-неорганических гибридов, особенно в области адсорбции. В данной статье представлены различные методы синтеза цеолитового каркаса имидазола-8 (ZIF-8), состоящего из атомов металлического цинка и 2-метилимидазола, а также их характеристики. Также рассмотрено применение ZIF-8 для очистки сточных вод, обладающего высокой адсорбционной способностью и уникальными свойствами для фотокаталитических материалов. Кроме того, обсуждены последние достижения в области использования, синтеза и другие применения MOF для эффективного удаления тяжелых металлов из воды.",
+  "abstract_kaz": "Өнеркәсіп пен ауыл шаруашылығының қарқынды өсуіне байланысты қоршаған ортаның ауыр металдар иондарымен ластануы жылдан жылға күшейе түсуде. Ауыр металдар адам үшін өте қауіпті және қоршаған орта мен экожүйеге зиянды әсер етеді. Ауыр металдар ағынды суларға төгіліп, адам ағзасына ену қаупі бар. Сондықтан, ағынды сулардан ауыр металл иондарын жою қоршаған ортада да, бизнесте де үлкен назар аударатын өзекті мәселе болып табылады. Осыған орай қазіргі кезде суды тазартудың дәстүрлі әдіс-тәсілдерін ауыстыру немесе заманауи технологияларды енгізу үшін жетілдірілген материалдарды әзірлеу қарастырылуда. Осы мәселелерді шешу үшін үш өлшемді органикалық-бейорганикалық кешеннің жаңа түрі болып табылатын металл-органикалық қаңқалар (MOF) осы мәселелердің шешімі ретінде, әсіресе адсорбция саласында аса маңызды. Бұл шолу мақалада MOF материалының бір түрі — Zn металл атомынан және 2-метилимидазолдан тұратын цеолитті имидазол қаңқасын (ZIF-8) синтездеу тәсілдерінің түрлері және олардың ерекшеліктері келтірілген. Сондай-ақ ZIF-8 ағынды суларды тазартуда белгілі материал болып табылатындығы, оның жоғары адсорбциялық қабілеті мен фотокаталитикалық материалдар үшін ерекше қасиеттері бар екені туралы қарастырылады. Сонымен қатар судан ауыр металдарды тиімді жоюда MOF-терді қолдану, синтездеу және олардың суды тазартудан басқа да қолданыстарға пайдаланудың соңғы жетістіктері талқыланған.",
+  "abstract_eng": "Environmental pollution with heavy metal ions is increasing year after year due to the rapid growth of industry and agriculture. Heavy metals are a major concern due to their extreme toxicity to humans and their detrimental impact on the environment and ecosystems. The effective removal of heavy metal ions from wastewater is a critical necessity, driven by strict environmental regulations and the potential for resource recovery in industrial contexts. The development of advanced materials is key to overcoming the limitations of traditional heavy metal removal methods like chemical precipitation. Metal-Organic Frameworks (MOFs) have emerged as a paradigm-shifting class of materials for the adsorption of heavy metal ions from wastewater. This review article presents various methods for synthesizing zeolitic imidazolate framework-8 (ZIF-8), a type of MOF composed of zinc metal atoms and 2-methylimidazole, along with their characteristics. ZIF-8 is recognized as a well-known material for wastewater treatment, possessing high adsorption capacity and unique properties for photocatalytic materials. Furthermore, recent advances in the application, synthesis, and other uses of MOFs for efficient removal of heavy metals from water are discussed.",
+  "keywords_rus": [
+    "металлоорганические каркасы (MOF)",
+    "ZIF-8",
+    "удаление тяжелых металлов",
+    "очистка воды",
+    "загрязнение"
+  ],
+  "keywords_kaz": [
+    "металл-органикалық қаңқалар (MOF)",
+    "ZIF-8",
+    "ауыр металдарды жою",
+    "суды тазарту",
+    "ластану"
+  ],
+  "keywords_eng": [
+    "metal-organic frameworks (MOF)",
+    "ZIF-8",
+    "heavy metal removal",
+    "wastewater treatment",
+    "pollution"
+  ],
+  "authors_ru": [
+    {
+      "first_name": "Назгуль",
+      "last_name": "Далабаева",
+      "country": "Казахстан",
+      "orcid": "0000-0002-1350-5054",
+      "email": "nazgulds81@gmail.com",
+      "university": "әл-Фараби атындағы Қазақ ұлттық университеті, Алматы, Қазақстан"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Kostakis",
+      "country": "Ұлыбритания",
+      "orcid": "0000-0002-4316-4369",
+      "email": "G.Kostakis@sussex.ac.uk",
+      "university": "Сассекс университеті, Ұлыбритания"
+    },
+    {
+      "first_name": "Нурбану",
+      "last_name": "Сарова",
+      "country": "Казахстан",
+      "orcid": "0000-0002-7541-2224",
+      "email": "n.sarova@abaiuniversity.edu.kz",
+      "university": "Абай атындағы Қазақ ұлттық педагогикалық университеті, Алматы, Қазақстан"
+    },
+    {
+      "first_name": "Гулия",
+      "last_name": "Сдикова",
+      "country": "Казахстан",
+      "orcid": "0000-0002-7949-1521",
+      "email": "sdikova.guliya@mail.ru",
+      "university": "М. Өтемісов атындағы Батыс Қазақстан Университеті, Орал, Қазақстан"
+    },
+    {
+      "first_name": "Жанар",
+      "last_name": "Корганбаева",
+      "country": "Казахстан",
+      "orcid": "0000-0001-8046-9586",
+      "email": "korganbaeva.zhan@mail.ru",
+      "university": "Абай атындағы Қазақ Ұлттық Педагогикалық Университеті, Алматы, Қазақстан"
+    },
+    {
+      "first_name": "Турар",
+      "last_name": "Акылбекова",
+      "country": "Казахстан",
+      "orcid": "0000-0002-6028-6229",
+      "email": "t.akylbekova@abaiuniversity.edu.kz",
+      "university": "Абай атындағы Қазақ Ұлттық Педагогикалық Университеті, Алматы, Қазақстан"
+    }
+  ],
+  "authors_kk": [
+    {
+      "first_name": "Назгүл",
+      "last_name": "Далабаева",
+      "country": "Қазақстан",
+      "orcid": "0000-0002-1350-5054",
+      "email": "nazgulds81@gmail.com",
+      "university": "Әл-Фараби атындағы Қазақ ұлттық университеті, Алматы, Қазақстан"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Kostakis",
+      "country": "Ұлыбритания",
+      "orcid": "0000-0002-4316-4369",
+      "email": "G.Kostakis@sussex.ac.uk",
+      "university": "Сассекс университеті, Ұлыбритания"
+    },
+    {
+      "first_name": "Нұрбану",
+      "last_name": "Сарова",
+      "country": "Қазақстан",
+      "orcid": "0000-0002-7541-2224",
+      "email": "n.sarova@abaiuniversity.edu.kz",
+      "university": "Абай атындағы Қазақ ұлттық педагогикалық университеті, Алматы, Қазақстан"
+    },
+    {
+      "first_name": "Гүлия",
+      "last_name": "Сдикова",
+      "country": "Қазақстан",
+      "orcid": "0000-0002-7949-1521",
+      "email": "sdikova.guliya@mail.ru",
+      "university": "М. Өтемісов атындағы Батыс Қазақстан Университеті, Орал, Қазақстан"
+    },
+    {
+      "first_name": "Жанар",
+      "last_name": "Қорғанбаева",
+      "country": "Қазақстан",
+      "orcid": "0000-0001-8046-9586",
+      "email": "korganbaeva.zhan@mail.ru",
+      "university": "Абай атындағы Қазақ Ұлттық Педагогикалық Университеті, Алматы, Қазақстан"
+    },
+    {
+      "first_name": "Тұрар",
+      "last_name": "Акылбекова",
+      "country": "Қазақстан",
+      "orcid": "0000-0002-6028-6229",
+      "email": "t.akylbekova@abaiuniversity.edu.kz",
+      "university": "Абай атындағы Қазақ Ұлттық Педагогикалық Университеті, Алматы, Қазақстан"
+    }
+  ],
+  "authors_en": [
+    {
+      "first_name": "Nazgul",
+      "last_name": "Dalabayeva",
+      "country": "Kazakhstan",
+      "orcid": "0000-0002-1350-5054",
+      "email": "nazgulds81@gmail.com",
+      "university": "Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Kostakis",
+      "country": "United Kingdom",
+      "orcid": "0000-0002-4316-4369",
+      "email": "G.Kostakis@sussex.ac.uk",
+      "university": "University of Sussex, United Kingdom"
+    },
+    {
+      "first_name": "Nurbanu",
+      "last_name": "Sarova",
+      "country": "Kazakhstan",
+      "orcid": "0000-0002-7541-2224",
+      "email": "n.sarova@abaiuniversity.edu.kz",
+      "university": "Abai Kazakh National Pedagogical University, Almaty, Kazakhstan"
+    },
+    {
+      "first_name": "Gulyia",
+      "last_name": "Sdikova",
+      "country": "Kazakhstan",
+      "orcid": "0000-0002-7949-1521",
+      "email": "sdikova.guliya@mail.ru",
+      "university": "M. Utemisov West Kazakhstan University, Oral, Kazakhstan"
+    },
+    {
+      "first_name": "Zhanar",
+      "last_name": "Korganbayeva",
+      "country": "Kazakhstan",
+      "orcid": "0000-0001-8046-9586",
+      "email": "korganbaeva.zhan@mail.ru",
+      "university": "Abai Kazakh National Pedagogical University, Almaty, Kazakhstan"
+    },
+    {
+      "first_name": "Turar",
+      "last_name": "Akylbekova",
+      "country": "Kazakhstan",
+      "orcid": "0000-0002-6028-6229",
+      "email": "t.akylbekova@abaiuniversity.edu.kz",
+      "university": "Abai Kazakh National Pedagogical University, Almaty, Kazakhstan"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "article_title_rus": "Возможности использования спутниковых данных для анализа спектральных особенностей древесной растительности",
+  "article_title_kaz": "Ағаш өсімдіктерінің спектрлік ерекшеліктерін талдау үшін спутниктік мәліметтерді пайдалану мүмкіндіктері",
+  "article_title_eng": "The possibilities of using satellite data to analyze the spectral features of woody vegetation",
+  "abstract_rus": "В статье представлены результаты исследования возможностей использования спутниковых данных для оценки состояния и мониторинга лесных экосистем, что является ключевой задачей в контексте устойчивого управления природными ресурсами. Исследование направлено на развитие методики дифференциации лесообразующих пород умеренного пояса на основе анализа их сезонной спектральной динамики с использованием современных технологий дистанционного зондирования Земли (Landsat 8-9) и инструмента геоинформационных систем (ArcGIS 10.8). Представлены результаты исследования спектральных характеристик древесных пород на основе анализа их отражательной способности в различных диапазонах электромагнитного спектра в условиях умеренного климатического пояса. Установлено, что наиболее контрастные спектральные различия, позволяющие надежно идентифицировать лиственные и хвойные породы деревьев, наблюдаются в определенные фенологические периоды (весенний и летний), что подтверждает важность учета временного фактора при дешифрировании лесов. Проведенные расчеты по установлению границ, определению площади пострадавших от пожара лесных массивов подтверждают оперативность и эффективность использования методов дистанционного зондирования и геоинформационных технологий. Результаты и алгоритм действий проведенного исследования имеют практическое значение для лесного хозяйства с целью определения породного состава лесов, их инвентаризации и мониторинга, своевременного реагирования на возможные угрозы, такие как лесные пожары и вырубка, а также оценку их последствий.",
+  "abstract_kaz": "Мақалада табиғи ресурстарды тұрақты басқару контекстіндегі негізгі міндет болып табылатын орман экожүйелерінің жағдайын бағалау және мониторингілеу үшін спутниктік мәліметтерді пайдалану мүмкіндіктерін зерттеу нәтижелері берілген. Зерттеу Жерді қашықтықтан зондтаудың заманауи технологияларын (Landsat 8-9) және географиялық ақпараттық жүйе құралын (ArcGIS 10.8) пайдалана отырып, олардың маусымдық спектрлік динамикасын талдау негізінде қоңыржай белдеудегі орман құраушы түрлерін саралау әдістемесін әзірлеуге бағытталған. Мақалада қоңыржай климаттық жағдайларда электромагниттік спектрдің әртүрлі диапазонында олардың шағылысу қабілетін талдау негізінде ағаш түрлерінің спектрлік сипаттамаларын зерттеу нәтижелері берілген. Өрттен зақымданған орман алқаптарының шекарасын белгілеу және ауданын анықтау бойынша жүргізілген есептеулер қашықтықтан зондтау әдістері мен геоақпараттық технологияларды қолданудың тиімділігін растайды. Зерттеудің нәтижелері мен іс-шаралар жоспары ормандардың түрлік құрамын анықтау, оларды түгендеу және мониторингілеу, орман өрттері мен ағаш кесу сияқты ықтимал қауіптерге дер кезінде ден қою және олардың зардаптарын бағалау мақсатында орман шаруашылығы үшін практикалық маңызы бар.",
+  "abstract_eng": "The article presents the results of a study of the possibilities of using satellite data to assess and monitor forest ecosystems, which is a key task in the context of sustainable management of natural resources. The research is aimed at developing a methodology for differentiating forest-forming rocks of the temperate zone based on the analysis of their seasonal spectral dynamics using modern Earth remote sensing technologies (Landsat 8-9) and a geoinformation systems tool (ArcGIS 10.8). The results of a study of the spectral characteristics of tree species based on an analysis of their reflectivity in various ranges of the electromagnetic spectrum in a temperate climate zone are presented. It has been established that the most contrasting spectral differences, which make it possible to reliably identify deciduous and coniferous tree species, are observed during certain phenological periods (spring and summer), which confirms the importance of taking into account the time factor when deciphering forests. The calculations carried out to establish boundaries and determine the area of forest areas affected by fire confirm the efficiency and effectiveness of using remote sensing methods and geoinformation technologies. The results and algorithm of actions of the conducted research are of practical importance for forestry in order to determine the species composition of forests, their inventory and monitoring, timely response to possible threats such as forest fires and logging, as well as assessment of their consequences.",
+  "keywords_rus": [
+    "дистанционное зондирование",
+    "спутниковые снимки",
+    "оптико-спектральный анализ",
+    "комбинации каналов",
+    "лесные ресурсы",
+    "древесные породы",
+    "лесные пожары"
+  ],
+  "keywords_kaz": [
+    "Қашықтықтан зондтау",
+    "спутниктік суреттер",
+    "оптикалық-спектрлік талдау",
+    "арналар комбинациясы",
+    "орман ресурстары",
+    "ағаш түрлері",
+    "орман өрттері"
+  ],
+  "keywords_eng": [
+    "remote sensing",
+    "satellite imagery",
+    "optical spectral analysis",
+    "channel combinations",
+    "forest resources",
+    "tree species",
+    "forest fires"
+  ],
+  "authors_ru": [
+    {
+      "first_name": "Игорь",
+      "last_name": "Седельников",
+      "country": "Казахстан",
+      "orcid": "0000-0001-9921-1825",
+      "email": "igor_sko_kz_94@mail.ru",
+      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+    },
+    {
+      "first_name": "Салтанат",
+      "last_name": "Исмагулова",
+      "country": "Казахстан",
+      "orcid": "0000-0003-3654-7756",
+      "email": "smismagulova@mail.ru",
+      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+    },
+    {
+      "first_name": "Павел",
+      "last_name": "Дмитриев",
+      "country": "Казахстан",
+      "orcid": "0000-0002-2712-3508",
+      "email": "dmitriev_pavel@mail.ru",
+      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+    }
+  ],
+  "authors_kk": [
+    {
+      "first_name": "Игорь",
+      "last_name": "Седельников",
+      "country": "Қазақстан",
+      "orcid": "0000-0001-9921-1825",
+      "email": "igor_sko_kz_94@mail.ru",
+      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+    },
+    {
+      "first_name": "Салтанат",
+      "last_name": "Исмагулова",
+      "country": "Қазақстан",
+      "orcid": "0000-0003-3654-7756",
+      "email": "smismagulova@mail.ru",
+      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+    },
+    {
+      "first_name": "Павел",
+      "last_name": "Дмитриев",
+      "country": "Қазақстан",
+      "orcid": "0000-0002-2712-3508",
+      "email": "dmitriev_pavel@mail.ru",
+      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+    }
+  ],
+  "authors_en": [
+    {
+      "first_name": "Igor",
+      "last_name": "Sedelnikov",
+      "country": "Kazakhstan",
+      "orcid": "0000-0001-9921-1825",
+      "email": "igor_sko_kz_94@mail.ru",
+      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+    },
+    {
+      "first_name": "Saltanat",
+      "last_name": "Ismagulova",
+      "country": "Kazakhstan",
+      "orcid": "0000-0003-3654-7756",
+      "email": "smismagulova@mail.ru",
+      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+    },
+    {
+      "first_name": "Pavel",
+      "last_name": "Dmitriev",
+      "country": "Kazakhstan",
+      "orcid": "0000-0002-2712-3508",
+      "email": "dmitriev_pavel@mail.ru",
+      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+    }
+  ]
+}

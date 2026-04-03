@@ -1,0 +1,58 @@
+{
+  "article_title_rus": "Изменение скорости и направления ветра с высотой в прибрежной зоне Апшеронского полуострова",
+  "article_title_kaz": "Апшерон түбегінің жағалау аймағындағы биіктікке байланысты жел жылдамдығы мен қуатының өзгеруі",
+  "article_title_eng": "Wind speed and wind power changes with height in the Absheron peninsula coastal zone",
+  "abstract_rus": "В статье подробно анализируется изменение скорости ветра с высотой в четырех основных точках прибрежной зоны Апшеронского полуострова, представляющих наибольший потенциал для ветроэнергетики в Азербайджане – Пираллахи, Мардакан, Сумгаит и Сангачал – за период 2001–2024 годов. В рамках исследования были изучены статистические характеристики изменения скорости ветра и мощности ветра на высотах 10 и 50 метров для каждой точки. Построены графики, отражающие изменение скорости ветра и его мощности по годам, месяцам и сезонам, и оценены долгосрочные тенденции. Кроме того, особое внимание уделено изменениям скорости ветра в течение суток в выбранных точках. В результате анализа установлено, что ветровые режимы в прибрежных зонах различаются как по сезонным, так и по суточным ритмам, что напрямую влияет на возможности использования ветра в качестве возобновляемого источника энергии. В конце исследования были применены две важные теоретические модели - степенной закон и логарифмический закон - для учета зависимости скорости ветра от высоты, и проведена сравнительная оценка их преимуществ и пригодности.",
+  "abstract_kaz": "Мақалада 2001–2024 жылдар аралығында Әзірбайжандағы жел энергиясын өндіру тұрғысынан өте перспективалы болып табылатын Абшерон түбегінің жағалау аймағында орналасқан төрт негізгі нүктеде – Пираллахи, Мардакан, Сумгайт және Сангапальда – жел жылдамдығының биіктікке байланысты өзгеруі егжей-тегжейлі талданады. Зерттеу аясында әр нүкте үшін жел жылдамдығының статистикалық сипаттамалары және 10 және 50 метр биіктіктегі жел қуатының өзгеру динамикасы зерттелді. Жел жылдамдығы мен қуатының жылдар, айлар және маусымдар бойынша өзгеруін көрсететін графиктер құрылды және ұзақ мерзімді үрдістер бағаланды. Сонымен қатар, таңдалған нүктелерде күндізгі жел жылдамдығының өзгеруіне ерекше назар аударылды. Талдау нәтижесінде жағалау аймақтарындағы жел режимі маусымдық және тәуліктік ырғақтар бойынша әртүрлі екені және бұл сипаттамалар желді жаңартылатын энергия көзі ретінде пайдалану мүмкіндіктеріне тікелей әсер ететіні анықталды. Зерттеу соңында жел жылдамдығының биіктікке тәуелді өзгеруін ескеру үшін екі маңызды теориялық модель – қуат заңы және логарифмдік заң – қолданылды және олардың артықшылықтары мен жарамдылығы салыстырмалы түрде бағаланды.",
+  "abstract_eng": "The article analyzes in detail the change in wind speed with height in four main points located in the coastal zone of the Absheron Peninsula, which are quite promising in terms of wind energy production in Azerbaijan - Pirallahi, Mardakan, Sumgayit and Sangachal for 2001–2024. Within the framework of the study, the statistical characteristics of wind speed and wind power change dynamics at heights of 10 and 50 meters were investigated for each point. Graphs reflecting the change in wind speed and power by years, months and seasons were constructed, and long-term trends were assessed. In addition, special attention was paid to the changes in wind speed during the day at the selected points. As a result of the analysis, it was found that the wind regime in coastal zones differs in both seasonal and daily rhythms, and these characteristics directly affect the possibilities of using wind as a renewable energy source. At the end of the study, two important theoretical models - the power law and the logarithmic law - were applied to take into account the height-dependent variation of wind speed, and their advantages and suitability were comparatively evaluated.",
+  "keywords_rus": [
+    "скорость ветра",
+    "энергия ветра",
+    "мощность ветра",
+    "логарифмический закон",
+    "степенной закон"
+  ],
+  "keywords_kaz": [
+    "жел жылдамдығы",
+    "жел энергиясы",
+    "логарифм заңы",
+    "қуат заңы"
+  ],
+  "keywords_eng": [
+    "wind speed",
+    "wind energy",
+    "wind power",
+    "Log law",
+    "Power law"
+  ],
+  "authors_ru": [
+    {
+      "first_name": "Вусала",
+      "last_name": "Расулзаде",
+      "country": "Azerbaijan",
+      "orcid": "0000-0002-0575-6101",
+      "email": "resulzade323@gmail.com",
+      "university": "Ministry of Science and Education of the Republic of Azerbaijan, Institute of Geography PLE, Baku"
+    }
+  ],
+  "authors_kk": [
+    {
+      "first_name": "Вусала",
+      "last_name": "Расулзаде",
+      "country": "Azerbaijan",
+      "orcid": "0000-0002-0575-6101",
+      "email": "resulzade323@gmail.com",
+      "university": "Ministry of Science and Education of the Republic of Azerbaijan, Institute of Geography PLE, Baku"
+    }
+  ],
+  "authors_en": [
+    {
+      "first_name": "Vusala",
+      "last_name": "Rasulzadeh",
+      "country": "Azerbaijan",
+      "orcid": "0000-0002-0575-6101",
+      "email": "resulzade323@gmail.com",
+      "university": "Ministry of Science and Education of the Republic of Azerbaijan, Institute of Geography PLE, Baku"
+    }
+  ]
+}
