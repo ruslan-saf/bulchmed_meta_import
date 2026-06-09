@@ -39,7 +39,7 @@
       "country": "Казахстан",
       "orcid": "0000-0001-9921-1825",
       "email": "igor_sko_kz_94@mail.ru",
-      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+      "university": "Северо-Казахстанский университет имени М. Козыбаева, Петропавловск, Казахстан"
     },
     {
       "first_name": "Салтанат",
@@ -47,7 +47,7 @@
       "country": "Казахстан",
       "orcid": "0000-0003-3654-7756",
       "email": "smismagulova@mail.ru",
-      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+      "university": "Северо-Казахстанский университет имени М. Козыбаева, Петропавловск, Казахстан"
     },
     {
       "first_name": "Павел",
@@ -55,7 +55,7 @@
       "country": "Казахстан",
       "orcid": "0000-0002-2712-3508",
       "email": "dmitriev_pavel@mail.ru",
-      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+      "university": "Северо-Казахстанский университет имени М. Козыбаева, Петропавловск, Казахстан"
     }
   ],
   "authors_kk": [
@@ -65,7 +65,7 @@
       "country": "Қазақстан",
       "orcid": "0000-0001-9921-1825",
       "email": "igor_sko_kz_94@mail.ru",
-      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+      "university": "М. Қозыбаев атындағы Солтүстік Қазақстан университеті, Петропавл, Қазақстан"
     },
     {
       "first_name": "Салтанат",
@@ -73,7 +73,7 @@
       "country": "Қазақстан",
       "orcid": "0000-0003-3654-7756",
       "email": "smismagulova@mail.ru",
-      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+      "university": "М. Қозыбаев атындағы Солтүстік Қазақстан университеті, Петропавл, Қазақстан"
     },
     {
       "first_name": "Павел",
@@ -81,7 +81,7 @@
       "country": "Қазақстан",
       "orcid": "0000-0002-2712-3508",
       "email": "dmitriev_pavel@mail.ru",
-      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+      "university": "М. Қозыбаев атындағы Солтүстік Қазақстан университеті, Петропавл, Қазақстан"
     }
   ],
   "authors_en": [
@@ -91,7 +91,7 @@
       "country": "Kazakhstan",
       "orcid": "0000-0001-9921-1825",
       "email": "igor_sko_kz_94@mail.ru",
-      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk, Kazakhstan"
     },
     {
       "first_name": "Saltanat",
@@ -99,7 +99,7 @@
       "country": "Kazakhstan",
       "orcid": "0000-0003-3654-7756",
       "email": "smismagulova@mail.ru",
-      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk, Kazakhstan"
     },
     {
       "first_name": "Pavel",
@@ -107,7 +107,7 @@
       "country": "Kazakhstan",
       "orcid": "0000-0002-2712-3508",
       "email": "dmitriev_pavel@mail.ru",
-      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk"
+      "university": "M. Kozybayev North Kazakhstan University, Petropavlovsk, Kazakhstan"
     }
   ]
 }

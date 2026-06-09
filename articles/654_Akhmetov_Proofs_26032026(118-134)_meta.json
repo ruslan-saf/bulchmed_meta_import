@@ -33,7 +33,7 @@
       "country": "Казахстан",
       "orcid": "0009-0007-0867-7429",
       "email": "serik.akhmetovkz@gmail.com",
-      "university": "НАО «Казахский научно-исследовательский институт Каспийского моря», Актау"
+      "university": "НАО «Казахский научно-исследовательский институт Каспийского моря», Актау, Казахстан"
     },
     {
       "first_name": "Сержан",
@@ -41,43 +41,43 @@
       "country": "Казахстан",
       "orcid": "0000-0003-0585-2125",
       "email": "s_amanov@mail.ru",
-      "university": "НАО «Казахский научно-исследовательский институт Каспийского моря», Актау"
+      "university": "НАО «Казахский научно-исследовательский институт Каспийского моря», Актау, Казахстан"
     }
   ],
   "authors_kk": [
     {
-      "first_name": "Серик",
+      "first_name": "Серік",
       "last_name": "Ахметов",
-      "country": "Казахстан",
+      "country": "Қазақстан",
       "orcid": "0009-0007-0867-7429",
       "email": "serik.akhmetovkz@gmail.com",
-      "university": "НАО «Казахский научно-исследовательский институт Каспийского моря», Актау"
+      "university": "ҚАҚ «Каспий теңізінің қазақ ғылыми-зерттеу институты», Ақтау, Қазақстан"
     },
     {
       "first_name": "Сержан",
       "last_name": "Аманов",
-      "country": "Казахстан",
+      "country": "Қазақстан",
       "orcid": "0000-0003-0585-2125",
       "email": "s_amanov@mail.ru",
-      "university": "НАО «Казахский научно-исследовательский институт Каспийского моря», Актау"
+      "university": "ҚАҚ «Каспий теңізінің қазақ ғылыми-зерттеу институты», Ақтау, Қазақстан"
     }
   ],
   "authors_en": [
     {
       "first_name": "Serik",
       "last_name": "Akhmetov",
-      "country": "Казахстан",
+      "country": "Kazakhstan",
       "orcid": "0009-0007-0867-7429",
       "email": "serik.akhmetovkz@gmail.com",
-      "university": "НАО «Казахский научно-исследовательский институт Каспийского моря», Актау"
+      "university": "Kazakh Research Institute of the Caspian Sea, Aktau, Kazakhstan"
     },
     {
       "first_name": "Serzhan",
       "last_name": "Amanov",
-      "country": "Казахстан",
+      "country": "Kazakhstan",
       "orcid": "0000-0003-0585-2125",
       "email": "s_amanov@mail.ru",
-      "university": "НАО «Казахский научно-исследовательский институт Каспийского моря», Актау"
+      "university": "Kazakh Research Institute of the Caspian Sea, Aktau, Kazakhstan"
     }
   ]
 }

@@ -27,26 +27,26 @@
     {
       "first_name": "Гульнара",
       "last_name": "Оспанова",
-      "country": "Қазақстан",
+      "country": "Казахстан",
       "orcid": "0000-0002-4035-719X",
       "email": "ospanova_14@mail.ru",
-      "university": "Л.Н. Гумилев атындағы Еуразия ұлттық университеті, Астана"
+      "university": "Евразийский национальный университет имени Л.Н. Гумилева, Астана, Казахстан"
     },
     {
       "first_name": "Алим",
       "last_name": "Мылкайдаров",
-      "country": "Қазақстан",
+      "country": "Казахстан",
       "orcid": "0000-0001-8652-3133",
       "email": "mylkaydarov@mail.ru",
-      "university": "әл-Фараби атындағы Қазақ ұлттық университеті, Алматы"
+      "university": "Казахский национальный университет имени аль-Фараби, Алматы, Казахстан"
     },
     {
       "first_name": "Айгерим",
       "last_name": "Сансызбаева",
-      "country": "Қазақстан",
+      "country": "Казахстан",
       "orcid": "0000-0002-0695-3406",
       "email": "sansyzbayeva.ab@mail.ru",
-      "university": "Л.Н. Гумилев атындағы Еуразия ұлттық университеті, Астана"
+      "university": "Евразийский национальный университет имени Л.Н. Гумилева, Астана, Казахстан"
     }
   ],
   "authors_kk": [
@@ -56,7 +56,7 @@
       "country": "Қазақстан",
       "orcid": "0000-0002-4035-719X",
       "email": "ospanova_14@mail.ru",
-      "university": "Л.Н. Гумилев атындағы Еуразия ұлттық университеті, Астана"
+      "university": "Л.Н. Гумилев атындағы Еуразия ұлттық университеті, Астана, Қазақстан"
     },
     {
       "first_name": "Алим",
@@ -64,7 +64,7 @@
       "country": "Қазақстан",
       "orcid": "0000-0001-8652-3133",
       "email": "mylkaydarov@mail.ru",
-      "university": "әл-Фараби атындағы Қазақ ұлттық университеті, Алматы"
+      "university": "әл-Фараби атындағы Қазақ ұлттық университеті, Алматы, Қазақстан"
     },
     {
       "first_name": "Айгерим",
@@ -72,33 +72,33 @@
       "country": "Қазақстан",
       "orcid": "0000-0002-0695-3406",
       "email": "sansyzbayeva.ab@mail.ru",
-      "university": "Л.Н. Гумилев атындағы Еуразия ұлттық университеті, Астана"
+      "university": "Л.Н. Гумилев атындағы Еуразия ұлттық университеті, Астана, Қазақстан"
     }
   ],
   "authors_en": [
     {
       "first_name": "Gulnara",
       "last_name": "Ospanova",
-      "country": "Қазақстан",
+      "country": "Kazakhstan",
       "orcid": "0000-0002-4035-719X",
       "email": "ospanova_14@mail.ru",
-      "university": "Л.Н. Гумилев атындағы Еуразия ұлттық университеті, Астана"
+      "university": "L.N. Gumilyov Eurasian National University, Astana, Kazakhstan"
     },
     {
       "first_name": "Alim",
       "last_name": "Mylkaydarov",
-      "country": "Қазақстан",
+      "country": "Kazakhstan",
       "orcid": "0000-0001-8652-3133",
       "email": "mylkaydarov@mail.ru",
-      "university": "әл-Фараби атындағы Қазақ ұлттық университеті, Алматы"
+      "university": "Al-Farabi Kazakh National University, Almaty, Kazakhstan"
     },
     {
       "first_name": "Aigerim",
       "last_name": "Sansyzbayeva",
-      "country": "Қазақстан",
+      "country": "Kazakhstan",
       "orcid": "0000-0002-0695-3406",
       "email": "sansyzbayeva.ab@mail.ru",
-      "university": "Л.Н. Гумилев атындағы Еуразия ұлттық университеті, Астана"
+      "university": "L.N. Gumilyov Eurasian National University, Astana, Kazakhstan"
     }
   ]
 }

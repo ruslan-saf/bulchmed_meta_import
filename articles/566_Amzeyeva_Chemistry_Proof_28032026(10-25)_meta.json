@@ -26,6 +26,7 @@
     "phytochemistry",
     "macroelements",
     "microelements",
+    "biological activity",
     "GC-MS"
   ],
   "authors_ru": [
@@ -91,72 +92,6 @@
       "first_name": "Айя",
       "last_name": "Төлепберген",
       "country": "Қазақстан",
-      "orcid": "0009-0001-7193-4404",
-      "email": "ulpan-92.kz@mail.ru",
-      "university": "НИИ натуральных продуктов и технологий, Алматы, Казахстан; Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
-    },
-    {
-      "first_name": "Айя",
-      "last_name": "Толепберген",
-      "country": "Казахстан",
-      "orcid": "0009-0001-6052-299X",
-      "email": "nis.sovetbek@gmail.com",
-      "university": "НИИ натуральных продуктов и технологий, Алматы, Казахстан; Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
-    },
-    {
-      "first_name": "Сункар",
-      "last_name": "Хуанбике",
-      "country": "Казахстан",
-      "orcid": "0009-0007-5388-8946",
-      "email": "1549372750@qq.com",
-      "university": "Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
-    },
-    {
-      "first_name": "Тирувентан",
-      "last_name": "Карунакаран",
-      "country": "Малайзия",
-      "orcid": "0000-0003-4470-2656",
-      "email": "thiruventhan@usm.my",
-      "university": "Центр исследований лекарственных препаратов, Университет наук Малайзии, Пенанг, Малайзия"
-    },
-    {
-      "first_name": "Айжамал",
-      "last_name": "Байсеитова",
-      "country": "Казахстан",
-      "orcid": "0000-0002-1549-8978",
-      "email": "aizhabaiseitova@gmail.com",
-      "university": "НИИ натуральных продуктов и технологий, Алматы, Казахстан; Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
-    },
-    {
-      "first_name": "Жанар",
-      "last_name": "Женис",
-      "country": "Казахстан",
-      "orcid": "0000-0002-7148-7253",
-      "email": "janarjenis@kaznu.kz",
-      "university": "Научно-исследовательский центр лекарственных растений, КазНУ им. аль-Фараби, Алматы, Казахстан"
-    }
-  ],
-  "authors_kk": [
-    {
-      "first_name": "Ұлпан",
-      "last_name": "Әмзеева",
-      "country": "Қазақстан",
-      "orcid": "0009-0001-7193-4404",
-      "email": "1549372750@qq.com",
-      "university": "Әл-Фараби атындағы ҚазҰУ дәрілік өсімдіктер ғылыми-зерттеу орталығы, Алматы, Қазақстан"
-    },
-    {
-      "first_name": "Тирувентан",
-      "last_name": "Карунакаран",
-      "country": "Малайзия",
-      "orcid": "",
-      "email": "thiruventhan@usm.my",
-      "university": "Дәрілік заттарды зерттеу орталығы, Малайзия ғылым университеті, Пулау Пинанг, Малайзия"
-    },
-    {
-      "first_name": "Айжамал",
-      "last_name": "Байсеитова",
-      "country": "Қазақстан",
       "orcid": "0009-0001-6052-299X",
       "email": "nis.sovetbek@gmail.com",
       "university": "Табиғи өнімдер және технологиялар ғылыми-зерттеу институты, Алматы, Қазақстан; Әл-Фараби атындағы ҚазҰУ дәрілік өсімдіктер ғылыми-зерттеу орталығы, Алматы, Қазақстан"
@@ -200,14 +135,12 @@
       "last_name": "Amzeyeva",
       "country": "Kazakhstan",
       "orcid": "0009-0001-7193-4404",
-      "email": "janarjenis@kaznu.kz",
-      "university": "Әл-Фараби атындағы ҚазҰУ дәрілік өсімдіктер ғылыми-зерттеу орталығы, Алматы, Қазақстан"
-    }
-  ],
-  "authors_en": [
+      "email": "ulpan-92.kz@mail.ru",
+      "university": "Research Institute for Natural Products & Technology, Almaty, Kazakhstan; The Research Center for Medicinal Plants, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
+    },
     {
-      "first_name": "Ulpan",
-      "last_name": "Amzeyeva",
+      "first_name": "Aya",
+      "last_name": "Tolepbergen",
       "country": "Kazakhstan",
       "orcid": "0009-0001-6052-299X",
       "email": "nis.sovetbek@gmail.com",
@@ -216,47 +149,7 @@
     {
       "first_name": "Suhaer",
       "last_name": "Huanbieke",
-      "country": "China",
-      "orcid": "0009-0007-5388-8946",
-      "email": "1549372750@qq.com",
-      "university": "The Research Center for Medicinal Plants, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
-    },
-    {
-      "first_name": "Thiruventhan",
-      "last_name": "Karunakaran",
-      "country": "Malaysia",
-      "orcid": "0000-0003-4470-2656",
-      "email": "thiruventhan@usm.my",
-      "university": "Centre for Drug Research, Universiti Sains Malaysia, Pulau Pinang, Malaysia"
-    },
-    {
-      "first_name": "Aizhamal",
-      "last_name": "Baiseitova",
       "country": "Kazakhstan",
-      "orcid": "0000-0002-1549-8978",
-      "email": "aizhabaiseitova@gmail.com",
-      "university": "Research Institute for Natural Products & Technology, Almaty, Kazakhstan; The Research Center for Medicinal Plants, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
-    },
-    {
-      "first_name": "Janar",
-      "last_name": "Jenis",
-      "country": "Kazakhstan",
-      "orcid": "0000-0002-7148-7253",
-      "email": "thiruventhan@usm.my",
-      "university": "Centre for Drug Research, Universiti Sains Malaysia, Pulau Pinang, Malaysia"
-    },
-    {
-      "first_name": "Aizhamal",
-      "last_name": "Baiseitova",
-      "country": "Kazakhstan",
-      "orcid": "0009-0001-6052-299X",
-      "email": "nis.sovetbek@gmail.com",
-      "university": "Research Institute for Natural Products & Technology, Almaty, Kazakhstan; The Research Center for Medicinal Plants, Al-Farabi Kazakh National University, Almaty, Kazakhstan"
-    },
-    {
-      "first_name": "Suhaer",
-      "last_name": "Huanbieke",
-      "country": "China",
       "orcid": "0009-0007-5388-8946",
       "email": "1549372750@qq.com",
       "university": "The Research Center for Medicinal Plants, Al-Farabi Kazakh National University, Almaty, Kazakhstan"

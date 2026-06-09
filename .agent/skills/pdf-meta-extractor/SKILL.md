@@ -37,7 +37,7 @@ Analyze the extracted text and produce the JSON output. Follow these extraction 
 
 **Authors:** Identify all author names. They appear as a comma-separated list before the numbered affiliations. Split each author into `first_name` and `last_name`.
 
-**Affiliations:** The numbered blocks (1, 2, 3...) contain university names, city, country. Map each author to their affiliation by the superscript numbers next to their name.
+**Affiliations:** The numbered blocks (1, 2, 3...) contain university names, city, country. Map each author to their affiliation by the superscript numbers next to their name. The `university` field in every author object (across all three author arrays) MUST follow the format: **University name, City, Country**. Adapt the language of the university name to match the array: Russian name for `authors_ru`, Kazakh name for `authors_kk`, English name for `authors_en`.
 
 **Emails:** Extract all email addresses from the affiliation block. Map them to authors in order of appearance.
 
@@ -135,7 +135,10 @@ Collect all ORCID values across all three author arrays (`authors_ru`, `authors_
   - 0000-0002-7148-7253 assigned to both "Janar Jenis" and "Aizhamal Baiseitova"
 ```
 
-**5b. Check for missing fields:**
+**5b. Check university format:**
+For every author in all three arrays, verify that the `university` field contains a city and a country (i.e., has at least two commas or ends with a recognizable country name). If a `university` value is missing the city or country, fix it before saving.
+
+**5c. Check for missing fields:**
 Check for any empty or missing fields. Print a warning summary:
 
 ```
@@ -180,7 +183,12 @@ The sidebar (left column) contains citation metadata, dates, and copyright info.
 
 2. **Author name splitting:** The first word is the first name, remaining words form the last name. Example: "Ulpan Amzeyeva" → first_name: "Ulpan", last_name: "Amzeyeva". For multi-word last names like "Лязат Толымбекова" → first_name: "Лязат", last_name: "Толымбекова".
 
-3. **Affiliation extraction:** Take only the university/institution name, city, and country. Do NOT include email addresses in the university field.
+3. **Affiliation extraction:** The `university` field MUST always contain exactly three parts: **University/Institution name, City, Country** — in that order, separated by commas. Examples:
+   - `"Al-Farabi Kazakh National University, Almaty, Kazakhstan"`
+   - `"Евразийский национальный университет имени Л.Н. Гумилева, Астана, Казахстан"`
+   - `"National Research Tomsk Polytechnic University, Tomsk, Russian Federation"`
+   - `"University of Sussex, Brighton, United Kingdom"`
+   If the PDF affiliation is missing the city or country, infer it from context (other affiliations, the country field, or known institution locations). Do NOT include email addresses, department names, or faculty names in the university field.
 
 4. **Abstract completeness:** The abstract may be truncated in the first page text extraction. If it appears cut off, extract text from page 2 as well to get the complete abstract.
 
